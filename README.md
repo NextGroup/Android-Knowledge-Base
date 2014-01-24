@@ -101,6 +101,7 @@ Android APK 디컴파일 및 리패키징 - http://ethobis.tistory.com/132
 *	ActionBarCompat and NavigationDrawer - http://gmariotti.blogspot.kr/2013/07/actionbarcompat-and-navigationdrawer.html
 *	DevByes : actionBarCompat(Korean) - https://www.youtube.com/watch?v=_SHKYqxUWvA&feature=youtube_gdata_player
 
+### ETC
 *	안드로이드앱은 언제 다이얼로그를 표시해야 하까요? - http://googledevkr.blogspot.kr/2014/01/confirming-acknowledging.html
 *	Google의 앱번역 서비스 - http://googledevkr.blogspot.kr/2013/11/blog-post.html
 *	Understanding Weak References - https://weblogs.java.net/blog/2006/05/04/understanding-weak-references
