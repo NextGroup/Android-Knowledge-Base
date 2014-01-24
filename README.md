@@ -1,16 +1,33 @@
-5:30 시작
-6:24 끝
+링크모으기 : 5:30 ~ 6:24 
+링크 분류하기 : 6:55 ~
+
+#디자인
+*	Android App Patterns - http://www.android-app-patterns.com/
+*	Android UI Design - http://mobile.tutsplus.com/series/android-user-interface-design/
+*	designpttrns(모바일/웹 UI 패턴, 쇼케이스, 가이드라인 및 리소스) - https://sites.google.com/site/designpttrns/
+*	Androidpatterns(Interaction pattern) - http://www.androidpatterns.com/
+*	디자인의 드리블화 (원제: The Dribbblisation of Design) - http://jun.postach.io/dijainyi-deuribeulhwa-weonje-the-dribbblisation-of-design-pol-aedeomseu
+*	안드로이드 디자인을 시작하는 사람들에게 강추하는 글 - http://www.vingle.net/posts/65755?shsrc=fb
+*	안드로이드 디자인 가이드 한글버전 - http://klutzy.github.io/android-design-ko/
+*	Android UI Design Trends - http://www.slideshare.net/AntonioLeivaGordillo/android-ui-design-trends
+*	Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
+*	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
+
+#네트워크
+
+#버전 파편화
+
+#화면 파편화
+
+#리버싱
+
+#데이터 베이스
+
+#프로파일링  (메모리 등..)
+
+#ETC
+
 [Android Design]
-Android App Patterns - http://www.android-app-patterns.com/
-Android UI Design - http://mobile.tutsplus.com/series/android-user-interface-design/
-designpttrns(모바일/웹 UI 패턴, 쇼케이스, 가이드라인 및 리소스) - https://sites.google.com/site/designpttrns/
-Androidpatterns(Interaction pattern) - http://www.androidpatterns.com/
-디자인의 드리블화 (원제: The Dribbblisation of Design) - http://jun.postach.io/dijainyi-deuribeulhwa-weonje-the-dribbblisation-of-design-pol-aedeomseu
-안드로이드 디자인을 시작하는 사람들에게 강추하는 글 - http://www.vingle.net/posts/65755?shsrc=fb
-안드로이드 디자인 가이드 한글버전 - http://klutzy.github.io/android-design-ko/
-Android UI Design Trends - http://www.slideshare.net/AntonioLeivaGordillo/android-ui-design-trends
-Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
-ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
 
 [Android Tutorial Site]
 Mobile tuts+  - http://mobile.tutsplus.com/category/tutorials/android/
