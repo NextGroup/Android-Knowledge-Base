@@ -31,6 +31,7 @@
 *	android kitkat에서의 변화v2 - https://medium.com/p/b7859c938f14
 
 #화면 파편화
+*	한번의 코딩으로 모든 해상도 대응을 하고 싶다면? ScalableLayout - http://www.androidpub.com/2573998
 *	Android 파편화 대응 자료 - http://www.androiduipatterns.com/2013/07/google-io-2013-sources-now-available.html
 *	Vectorioid - http://www.vectoroid.com/ 
 *	Android의 다해상도 지원 문제 해결 방법 정리 - http://kese111.blogspot.kr/2012/12/android.html
