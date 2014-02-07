@@ -50,12 +50,15 @@ Android APK 디컴파일 및 리패키징 - http://ethobis.tistory.com/132
 *	성능개선을 위한 GC의 활용 - http://stophyun.tistory.com/37
 
 #개발환경
+
+
 ###빌드도구
 *	Gradle Ide integration - Eclipse Plugin - http://www.kaczanowscy.pl/tomek/2010-03/gradle-ide-integration-eclipse-plugin
 *	Eclipse + Android + Maven 설정 기초 - http://javacan.tistory.com/entry/Tip-EclipseAndroidMaven
 *	Building Android Apps with Apache Maven - http://www.vogella.com/tutorials/AndroidBuildMaven/article.html
 *	Android Application Development with Maven - http://books.sonatype.com/mvnr.../reference/android-dev.html
 *	Eclipse 메모리 Heap 영역 늘리기 - http://arabiannight.tistory.com/18
+*	Android + Eclipse + Maven + Android Annotations + Robolectric - //github.com/kjunine/android-samplerom app.energy.views import mod as energyModule
 
 ###Genymotion
 *	맥에서 Genymotion을 이용하여 보다 빠른 안드로이드 에뮬레이터로 개발하기 - http://dev.re.kr/15
