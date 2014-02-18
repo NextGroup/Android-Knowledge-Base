@@ -1,7 +1,3 @@
-링크모으기 : 5:30 ~ 6:24 
-링크 분류하기 : 6:55 ~
-
-
 #Android Tutorial Site
 *	Mobile tuts+  - http://mobile.tutsplus.com/category/tutorials/android/
 **		relative layout 맛보기로 매우 좋은 예제 - http://mobile.tutsplus.com/tutorials/android/android-ui-workshop-build-an-interactive-quiz-app/
@@ -50,7 +46,6 @@ Android APK 디컴파일 및 리패키징 - http://ethobis.tistory.com/132
 *	성능개선을 위한 GC의 활용 - http://stophyun.tistory.com/37
 
 #개발환경
-
 
 ###빌드도구
 *	Gradle Ide integration - Eclipse Plugin - http://www.kaczanowscy.pl/tomek/2010-03/gradle-ide-integration-eclipse-plugin
@@ -106,6 +101,13 @@ Android APK 디컴파일 및 리패키징 - http://ethobis.tistory.com/132
 *	DevByes : actionBarCompat(Korean) - https://www.youtube.com/watch?v=_SHKYqxUWvA&feature=youtube_gdata_player
 
 ### ETC
+*	Google Apps Universal Packages - http://wiki.rootzwiki.com/Google_Apps#Universal_Packages_2
+*	Mobile 2013 트렌드 분석 및 2014 전망 - http://www.slideshare.net/MezzoMedia/mobile-2013-2014-201312
+*	1시간이면 직접 조립하는 DIY 전기자동차 - http://techholic.co.kr/archives/12113
+*	Characteristics of Korean Mobile Users - https://medium.com/nerd-story/1736fc8d1f8d
+*	Android Push Server & MQTT - http://www.slideshare.net/ultrasonic/android-push-server-mqtt
+*	모바일 앱 로딩 애니메이션의 심리학 - http://mercury.io/blog/the-psychology-of-waiting-loading-animations-and-facebook
+*	GCM과 관련한 대화 로그 - https://www.facebook.com/groups/444911198960582/permalink/531578680293833/
 *	안드로이드앱은 언제 다이얼로그를 표시해야 하까요? - http://googledevkr.blogspot.kr/2014/01/confirming-acknowledging.html
 *	Google의 앱번역 서비스 - http://googledevkr.blogspot.kr/2013/11/blog-post.html
 *	Understanding Weak References - https://weblogs.java.net/blog/2006/05/04/understanding-weak-references
