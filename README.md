@@ -7,6 +7,7 @@
 
 #샘플코드 모음
 * android tutorial mkyong's blog - http://www.mkyong.com/tutorials/android-tutorial/
+* basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
 
 #디자인
 *	Android App Patterns - http://www.android-app-patterns.com/
