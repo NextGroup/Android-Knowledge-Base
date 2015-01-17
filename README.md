@@ -19,9 +19,13 @@
 *	Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
 *	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
 
-#네트워크
+#네트워크 관련
+* retrofit
+* AsyncTaks - Bolt
 
-
+#라이브러리 
+* AUIL 
+* RxJava
 
 #버전 파편화
 *	Android 4.4 APIs - http://developer.android.com/about/versions/android-4.4.html#Behaviors
