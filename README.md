@@ -8,6 +8,7 @@
 
 #디자인
 *	Android App Patterns - http://www.android-app-patterns.com/
+* Android UI Patterns APK - https://www.dropbox.com/s/qllr15b6x1802bl/com.groidify.uipatterns-1.apk
 *	Android UI Design - http://mobile.tutsplus.com/series/android-user-interface-design/
 *	designpttrns(모바일/웹 UI 패턴, 쇼케이스, 가이드라인 및 리소스) - https://sites.google.com/site/designpttrns/
 *	Androidpatterns(Interaction pattern) - http://www.androidpatterns.com/
@@ -20,11 +21,16 @@
 
 #네트워크
 
+
+
 #버전 파편화
 *	Android 4.4 APIs - http://developer.android.com/about/versions/android-4.4.html#Behaviors
 *	DevBytes : What's New in Android 4.4 (Korean) - https://www.youtube.com/watch?v=U9jAcwaETD4&feature=youtu.be
 *	kitkat에서 맞닥뜨린 이슈 및 해결 - https://medium.com/what-i-learned-today/1ecb94c24694
 *	android kitkat에서의 변화v2 - https://medium.com/p/b7859c938f14
+
+#성능 
+Android Performance Pattern - http://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE 
 
 #화면 파편화
 *	한번의 코딩으로 모든 해상도 대응을 하고 싶다면? ScalableLayout - http://www.androidpub.com/2573998
