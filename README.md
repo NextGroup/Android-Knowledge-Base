@@ -5,16 +5,29 @@
 *	Developer Android - http://developer.android.com/training/index.html
 *	Android tutorials xjaphx - http://xjaphx.wordpress.com/learning/tutorials/
 
+#안드로이드 OS 소스 코드
+* 4.1.2 os - http://osxr.org/android/source?_i=dvmHeapSweepSystemWeaks
+* 5.O source -특히 rosalloc 부분 (https://android.googlesource.com/platform/art/+/70f60042558e0a766e98f2aaefbf80596ace4d53/runtime/gc/allocator/rosalloc.h)
+
+#안드로이드 앱 오픈소스 코드 
+* 14 Great Android apps that are also open source  http://blog.interstellr.com/post/39321551640/14-great-android-apps-that-are-also-open-source
+
+
+
 #샘플코드 모음
 * android tutorial mkyong's blog - http://www.mkyong.com/tutorials/android-tutorial/
 * basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
+*
 
 #디자인
+*	Android UI Component 모음 - http://joasoft.net/ 
 *	Android App Patterns - http://www.android-app-patterns.com/
+*	Android Asset Studio - http://romannurik.github.io/AndroidAssetStudio/ 
 * Android UI Patterns APK - https://www.dropbox.com/s/qllr15b6x1802bl/com.groidify.uipatterns-1.apk
 *	Android UI Design - http://mobile.tutsplus.com/series/android-user-interface-design/
 *	designpttrns(모바일/웹 UI 패턴, 쇼케이스, 가이드라인 및 리소스) - https://sites.google.com/site/designpttrns/
 *	Androidpatterns(Interaction pattern) - http://www.androidpatterns.com/
+*	안드로이드 nice ties (안드로이드 UI가 좋은 앱 공유)   http://androidniceties.tumblr.com/
 *	디자인의 드리블화 (원제: The Dribbblisation of Design) - http://jun.postach.io/dijainyi-deuribeulhwa-weonje-the-dribbblisation-of-design-pol-aedeomseu
 *	안드로이드 디자인을 시작하는 사람들에게 강추하는 글 - http://www.vingle.net/posts/65755?shsrc=fb
 *	안드로이드 디자인 가이드 한글버전 - http://klutzy.github.io/android-design-ko/
@@ -63,6 +76,8 @@ Android APK 디컴파일 및 리패키징 - http://ethobis.tistory.com/132
 *	모바일 성능 측정하기 : WebPagetest와 Appurify 미리보기 - http://www.hanb.co.kr/network/view.html?bi_id=1925
 *	구글이 안드로이드에 조각모음을 실행하다 - http://blog.kudokun.me/6613
 *	성능개선을 위한 GC의 활용 - http://stophyun.tistory.com/37
+*	작은 메모리를 가진 안드로이드의 효율적인 메모리 핸들링 기법 - http://www.it.iitb.ac.in/frg/wiki/images/f/f4/113050076_Rajesh_Prodduturi_Stage-01_report_8_113050076_stage01.pdf
+*
 
 #개발환경
 
