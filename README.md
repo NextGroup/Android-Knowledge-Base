@@ -23,11 +23,16 @@
 *	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
 
 #네트워크 관련
-* retrofit
+
+* http - OkHTTP 간단한 샘플로 main함수가 있는 코드들이 있습니다. https://github.com/swan…/android-http-examples/…/master/http
+* picasso-app - 스퀘어의 이미지 라이브러리 피카소에 대한 샘플들입니다.https://github.com/…/android-http-e…/tree/master/picasso-app
+* retrofit-app - 역시 스퀘어가 만든 어노테이션 기반의 HTTP(JSON) 도구 레트로핏에 대한 샘플들입니다.https://github.com/…/android-http-…/tree/master/retrofit-app
 * AsyncTaks - Bolt
 
 #라이브러리 
-* AUIL 
+* AUIL  https://github.com/nostra13/Android-Universal-Image-Loader  / https://github.com/nostra13/Android-Universal-Image-Loader/wiki/Useful-Info
+* AUIL Sample Project - https://github.com/nostra13/Android-Universal-Image-Loader/tree/master/sample 
+* ButterKnife https://github.com/JakeWharton/butterknife / http://jakewharton.github.io/butterknife/
 * RxJava
 
 #버전 파편화
