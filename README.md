@@ -7,7 +7,7 @@
 
 #안드로이드 OS 소스 코드
 * 4.1.2 os - http://osxr.org/android/source?_i=dvmHeapSweepSystemWeaks
-* 5.O source -특히 rosalloc 부분 (https://android.googlesource.com/platform/art/+/70f60042558e0a766e98f2aaefbf80596ace4d53/runtime/gc/allocator/rosalloc.h)
+* 5.0 source -특히 rosalloc 부분 (https://android.googlesource.com/platform/art/+/70f60042558e0a766e98f2aaefbf80596ace4d53/runtime/gc/allocator/rosalloc.h)
 
 #안드로이드 앱 오픈소스 코드 
 * 14 Great Android apps that are also open source  http://blog.interstellr.com/post/39321551640/14-great-android-apps-that-are-also-open-source
