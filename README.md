@@ -5,6 +5,8 @@
 *	Developer Android - http://developer.android.com/training/index.html
 *	Android tutorials xjaphx - http://xjaphx.wordpress.com/learning/tutorials/
 
+
+
 #안드로이드 OS 소스 코드
 * 4.1.2 os - http://osxr.org/android/source?_i=dvmHeapSweepSystemWeaks
 * 5.0 source -특히 rosalloc 부분 (https://android.googlesource.com/platform/art/+/70f60042558e0a766e98f2aaefbf80596ace4d53/runtime/gc/allocator/rosalloc.h)
@@ -17,7 +19,8 @@
 #샘플코드 모음
 * android tutorial mkyong's blog - http://www.mkyong.com/tutorials/android-tutorial/
 * basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
-*
+
+
 
 #디자인
 *	Android UI Component 모음 - http://joasoft.net/ 
@@ -54,6 +57,10 @@
 *	DevBytes : What's New in Android 4.4 (Korean) - https://www.youtube.com/watch?v=U9jAcwaETD4&feature=youtu.be
 *	kitkat에서 맞닥뜨린 이슈 및 해결 - https://medium.com/what-i-learned-today/1ecb94c24694
 *	android kitkat에서의 변화v2 - https://medium.com/p/b7859c938f14
+
+#괜찮은 글들. 
+왜 Thread보다 AsyncTask를 써야 하나 - http://ismydream.tistory.com/130
+
 
 #성능 
 Android Performance Pattern - http://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE 
