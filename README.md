@@ -60,6 +60,7 @@
 
 #괜찮은 글들. 
 왜 Thread보다 AsyncTask를 써야 하나 - http://ismydream.tistory.com/130
+Thread Handler를 AsyncTask로 하면 코드가 훨씬 준다 - http://www.androidpub.com/1340505
 
 
 #성능 
