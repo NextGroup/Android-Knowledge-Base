@@ -22,7 +22,7 @@
 * 이것 저것 샘플 모음 - http://androidexample.com/index.php 
 
 #레이아웃 - 리스트 / 그리드 레이아웃, SaggeredGrid
-* SaggeredGrid - recyceldview를 이용한 다양한 레이아웃 관리 - 
+* SaggeredGrid - recyceldview를 이용한 다양한 레이아웃 관리 (android 5.0)  
 ** https://github.com/lucasr/twoway-view 
 ** https://techmeisterblog.wordpress.com/2015/02/11/staggered-grid-layout-in-android/
 
