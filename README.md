@@ -21,9 +21,10 @@
 * basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
 * 이것 저것 샘플 모음 - http://androidexample.com/index.php 
 
-#레이아웃 관리
+#레이아웃 - 리스트 / 그리드 레이아웃, SaggeredGrid
 * recyceldview를 이용한 다양한 레이아웃 관리 - https://github.com/lucasr/twoway-view 
-* 
+* StaggeredGrid - https://github.com/etsy/AndroidStaggeredGrid 
+
 
 
 #디자인
