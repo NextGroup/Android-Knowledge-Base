@@ -23,7 +23,7 @@
 
 #레이아웃 - 리스트 / 그리드 레이아웃, SaggeredGrid
 * recyceldview를 이용한 다양한 레이아웃 관리 - https://github.com/lucasr/twoway-view 
-* StaggeredGrid - https://github.com/etsy/AndroidStaggeredGrid 
+* StaggeredGrid - https://codeascraft.com/2014/01/13/android-staggered-grid/  and https://github.com/etsy/AndroidStaggeredGrid 
 
 
 
