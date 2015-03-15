@@ -19,7 +19,11 @@
 #샘플코드 모음
 * android tutorial mkyong's blog - http://www.mkyong.com/tutorials/android-tutorial/
 * basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
+* 이것 저것 샘플 모음 - http://androidexample.com/index.php 
 
+#레이아웃 관리
+* recyceldview를 이용한 다양한 레이아웃 관리 - https://github.com/lucasr/twoway-view 
+* 
 
 
 #디자인
@@ -66,6 +70,8 @@ Thread Handler를 AsyncTask로 하면 코드가 훨씬 준다 - http://www.andro
 
 #성능 
 Android Performance Pattern - http://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE 
+화면 랜터딩 성능 개선 - http://www.curious-creature.com/2012/12/01/android-performance-case-study/
+
 
 #화면 파편화
 *	한번의 코딩으로 모든 해상도 대응을 하고 싶다면? ScalableLayout - http://www.androidpub.com/2573998
