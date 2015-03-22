@@ -50,7 +50,7 @@
 
 # android Template 
 * http://myapptemplates.com/product/dashboard-android-app-template/
-* http://codecanyon.net/item/material-design-ui-android-template-app/9858746?WT.oss_phrase=android&WT.oss_rank=25&WT.z_author=CreativeForm&WT.trending=trending&WT.ac=search_list
+* http://codecanyon.net/category/mobile/android/templates
 
 
 #네트워크 관련
