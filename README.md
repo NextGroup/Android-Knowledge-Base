@@ -48,8 +48,12 @@
 *	Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
 *	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
 
-#네트워크 관련
+# android Template 
+* http://myapptemplates.com/product/dashboard-android-app-template/
+* http://codecanyon.net/item/material-design-ui-android-template-app/9858746?WT.oss_phrase=android&WT.oss_rank=25&WT.z_author=CreativeForm&WT.trending=trending&WT.ac=search_list
 
+
+#네트워크 관련
 * http - OkHTTP 간단한 샘플로 main함수가 있는 코드들이 있습니다. https://github.com/swankjesse/android-http-examples/tree/master/http
 * picasso-app - 스퀘어의 이미지 라이브러리 피카소에 대한 샘플들입니다.https://github.com/swankjesse/android-http-examples/tree/master/picasso-app
 * retrofit-app - 역시 스퀘어가 만든 어노테이션 기반의 HTTP(JSON) 도구 레트로핏에 대한 샘플들입니다.https://github.com/swankjesse/android-http-examples/tree/master/retrofit-app
@@ -77,6 +81,24 @@ Thread Handler를 AsyncTask로 하면 코드가 훨씬 준다 - http://www.andro
 #성능 
 Android Performance Pattern - http://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE 
 화면 랜터딩 성능 개선 - http://www.curious-creature.com/2012/12/01/android-performance-case-study/
+
+#안드로이드 그래프  라이브러리 
+* http://www.androidpub.com/2615071
+* https://code.google.com/p/achartengine/
+* http://www.artfulbits.com/products/android/aiCharts.aspx#Presentation_1
+* https://code.google.com/p/chartdroid/
+* http://www.android-graphview.org/showcase.html
+* http://www.jjoe64.com/2011/07/chart-and-graph-library-for-android.html
+
+오픈소스 
+* https://www.youtube.com/watch?v=ufaK_Hd6BpI
+* http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-105649.html
+* https://github.com/limccn/Android-Charts
+* http://www.telerik.com/download/android-ui
+* http://www.appance.com/tag/android-chart/
+* https://github.com/blackfizz/EazeGraph
+
+choiyejin [9:41 PM]
 
 
 #화면 파편화
