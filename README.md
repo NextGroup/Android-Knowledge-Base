@@ -31,6 +31,12 @@
 ** https://github.com/etsy/AndroidStaggeredGrid 
 ** http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/
 
+# RecylerView 예제들 
+** http://hmkcode.com/android-simple-recyclerview-widget-example/ (더 직관적)
+** http://coderandom.com/2014/07/04/recyclerview-example/ (좋음)
+** http://javatechig.com/android/android-recyclerview-example
+
+
 
 #디자인
 *	Android UI Component 모음 - http://joasoft.net/ 
