@@ -40,7 +40,8 @@
 
 
 #디자인
-* Android Awesome UI - https://github.com/wasabeef/awesome-android-ui 글
+* Android Awesome UI - https://github.com/wasabeef/awesome-android-ui 
+* recycler view 추가 라이브러리 10 개 - http://www.andevcon.com/news/10-recyclerview-android-libraries
 * Android UI Component 모음 - http://joasoft.net/ 
 *	Android App Patterns - http://www.android-app-patterns.com/
 *	Android Asset Studio - http://romannurik.github.io/AndroidAssetStudio/ 
