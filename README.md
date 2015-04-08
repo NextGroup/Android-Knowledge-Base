@@ -21,8 +21,8 @@
 * basic , image process samples - https://xjaphx.wordpress.com/learning/tutorials/
 * 이것 저것 샘플 모음 - http://androidexample.com/index.php 
 
-#레이아웃 - 리스트 / 그리드 레이아웃, SaggeredGrid
-* SaggeredGrid - recyceldview를 이용한 다양한 레이아웃 관리 (android 5.0)  
+#레이아웃 - 리스트 / 그리드 레이아웃, StaggeredGrid
+* StaggeredGrid - recyceldview를 이용한 다양한 레이아웃 관리 (android 5.0)  
 ** https://github.com/lucasr/twoway-view 
 ** https://techmeisterblog.wordpress.com/2015/02/11/staggered-grid-layout-in-android/
 
@@ -40,7 +40,8 @@
 
 
 #디자인
-*	Android UI Component 모음 - http://joasoft.net/ 
+* Android Awesome UI - https://github.com/wasabeef/awesome-android-ui 글
+* Android UI Component 모음 - http://joasoft.net/ 
 *	Android App Patterns - http://www.android-app-patterns.com/
 *	Android Asset Studio - http://romannurik.github.io/AndroidAssetStudio/ 
 * Android UI Patterns APK - https://www.dropbox.com/s/qllr15b6x1802bl/com.groidify.uipatterns-1.apk
@@ -54,6 +55,20 @@
 *	Android UI Design Trends - http://www.slideshare.net/AntonioLeivaGordillo/android-ui-design-trends
 *	Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
 *	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
+
+#안드로이드 그래프  라이브러리 
+* http://www.androidpub.com/2615071
+* https://code.google.com/p/achartengine/
+* http://www.artfulbits.com/products/android/aiCharts.aspx#Presentation_1
+* https://code.google.com/p/chartdroid/
+* http://www.android-graphview.org/showcase.html
+* http://www.jjoe64.com/2011/07/chart-and-graph-library-for-android.html
+* https://www.youtube.com/watch?v=ufaK_Hd6BpI
+* http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-105649.html
+* https://github.com/limccn/Android-Charts
+* http://www.telerik.com/download/android-ui
+* http://www.appance.com/tag/android-chart/
+* https://github.com/blackfizz/EazeGraph
 
 # android Template 
 * http://myapptemplates.com/product/dashboard-android-app-template/
@@ -89,13 +104,6 @@ Thread Handler를 AsyncTask로 하면 코드가 훨씬 준다 - http://www.andro
 Android Performance Pattern - http://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE 
 화면 랜터딩 성능 개선 - http://www.curious-creature.com/2012/12/01/android-performance-case-study/
 
-#안드로이드 그래프  라이브러리 
-* http://www.androidpub.com/2615071
-* https://code.google.com/p/achartengine/
-* http://www.artfulbits.com/products/android/aiCharts.aspx#Presentation_1
-* https://code.google.com/p/chartdroid/
-* http://www.android-graphview.org/showcase.html
-* http://www.jjoe64.com/2011/07/chart-and-graph-library-for-android.html
 
 오픈소스 
 * https://www.youtube.com/watch?v=ufaK_Hd6BpI
