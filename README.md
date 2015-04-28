@@ -31,6 +31,8 @@
 * https://github.com/etsy/AndroidStaggeredGrid 
 * http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/
 
+
+
 # RecylerView 예제들 
 * http://hmkcode.com/android-simple-recyclerview-widget-example/ (더 직관적)
 * http://coderandom.com/2014/07/04/recyclerview-example/ (좋음)
@@ -56,6 +58,7 @@
 *	Android UI Design Trends - http://www.slideshare.net/AntonioLeivaGordillo/android-ui-design-trends
 *	Awesome Android Design - http://www.androiduipatterns.com/2014/01/awesome-android-design-slides-by-nick.html
 *	ANDROID UI DESIGN KIT FOR PHOTOSHOP AND GIMP 4.3 - http://androiduiux.com/2013/10/04/android-ui-design-kit-for-photoshop-and-gimp-4-3-free-download/
+* android multiwindow 같이 효과주는 floating library - https://github.com/pingpongboss/StandOut 
 
 #안드로이드 그래프  라이브러리 
 * http://www.androidpub.com/2615071
